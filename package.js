@@ -1,7 +1,8 @@
 Package.describe({
   name: "cyclum:meteor-validate",
   summary: 'Validation Package with jquery libs',
-  version: '0.0.1'
+  version: '0.0.1',
+  git: 'https://github.com/Cyclum/form-validate.git'
 });
 
 Package.onUse(function(api) {
